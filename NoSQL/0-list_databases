@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+"""
+this file shows all databases in mongodb
+"""
+show dbs
